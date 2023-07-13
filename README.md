@@ -1,5 +1,6 @@
 # oibsip_1
-1.Railway Reservation System This Online Reservation System will include all the necessary fields which are required during online reservation system.The basic idea behind this project is to save data in a central database which can be accessed by any authorize person to get information and saves time and burden which are being faced by their customers.Utilized Java JDBC (Java Database Connectivity) to establish a connection with the MySQL database.
+
+Railway Reservation System: This Online Reservation System will include all the necessary fields which are required during online reservation system.The basic idea behind this project is to save data in a central database which can be accessed by any authorize person to get information and saves time and burden which are being faced by their customers.Utilized Java JDBC (Java Database Connectivity) to establish a connection with the MySQL database.
 
 Login Form – To access this Online Reservation System, each user and admin have a valid login id and password. After providing the correct login id and password, users will able to access the main system.
 
